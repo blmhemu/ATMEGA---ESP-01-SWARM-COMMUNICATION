@@ -1,3 +1,4 @@
-# ATMEGA---ESP-01-SWARM-COMMUNICATION
-ATMEGA CODE FOR SWARM COMMUNICAION USING ESP 01
-CODE WRITTEN USING CROSSPACK FOR MAC
+# Swarm-Communication
+Fresher Electronics Club summer project.  
+Code compiled using crosspack for Mac.  
+**Archived & no longer maintained.**
